@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GLOBALLISTS>
+  <GLOBALLIST name="Build Analytics">
+    <LISTITEM value="List item 1" />
+    <LISTITEM value="List item 2" />
+    <LISTITEM value="List item 3" />
+    <LISTITEM value="List item 4" />
+    <LISTITEM value="List item n" />
+  </GLOBALLIST>
+  <GLOBALLIST name="Build SR">
+    <LISTITEM value="List item 1" />
+    <LISTITEM value="List item 2" />
+    <LISTITEM value="List item 3" />
+    <LISTITEM value="List item 4" />
+    <LISTITEM value="List item n" />
+  </GLOBALLIST>
+  <GLOBALLIST name="Analytics Team">
+    <LISTITEM value="List item 1" />
+    <LISTITEM value="List item 2" />
+    <LISTITEM value="List item 3" />
+    <LISTITEM value="List item 4" />
+    <LISTITEM value="List item n" />
+  </GLOBALLIST>
+</GLOBALLISTS>
